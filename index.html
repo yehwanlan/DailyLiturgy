@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="道教經文集 - 太上玄門正一日誦早課與寶誥大全">
+    <title>道教經文集 | 日課・寶誥大全</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- 頂部導航 -->
+    <header class="header">
+        <div class="header-content">
+            <h1 class="site-title">☯ 道教經文集</h1>
+            <div class="controls">
+                <button id="font-decrease" class="control-btn" title="縮小字體">A-</button>
+                <button id="font-increase" class="control-btn" title="放大字體">A+</button>
+                <button id="theme-toggle" class="control-btn" title="深色模式">🌙</button>
+                <button id="nav-toggle" class="control-btn nav-toggle" title="目錄">☰</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- 側邊導航 -->
+    <nav id="sidebar" class="sidebar">
+        <div class="sidebar-header">
+            <h2>經文目錄</h2>
+            <button id="sidebar-close" class="sidebar-close">✕</button>
+        </div>
+        <div class="sidebar-content">
+            <div class="nav-section">
+                <h3 class="nav-section-title" data-section="daily">📿 日課</h3>
+                <ul id="nav-daily" class="nav-list"></ul>
+            </div>
+            <div class="nav-section">
+                <h3 class="nav-section-title" data-section="baogao">📜 寶誥大全</h3>
+                <ul id="nav-baogao" class="nav-list"></ul>
+            </div>
+            <div class="nav-section">
+                <h3 class="nav-section-title" data-section="future">📖 填充經文</h3>
+                <ul id="nav-future" class="nav-list">
+                    <li class="nav-item placeholder">敬請期待...</li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 主內容區 -->
+    <main class="main-content">
+        <!-- 第一區塊：日課 -->
+        <section id="section-daily" class="scripture-section">
+            <div class="section-header" data-section="daily">
+                <div class="section-icon">📿</div>
+                <h2 class="section-title">日課</h2>
+                <span class="section-subtitle">太上玄門正一日誦早課</span>
+                <span class="toggle-icon">▼</span>
+            </div>
+            <div id="content-daily" class="section-content">
+                <div class="loading">載入中...</div>
+            </div>
+        </section>
+
+        <!-- 第二區塊：寶誥大全 -->
+        <section id="section-baogao" class="scripture-section">
+            <div class="section-header" data-section="baogao">
+                <div class="section-icon">📜</div>
+                <h2 class="section-title">寶誥大全</h2>
+                <span class="section-subtitle">共 305 篇寶誥經文</span>
+                <span class="toggle-icon">▼</span>
+            </div>
+            <div id="content-baogao" class="section-content">
+                <div class="loading">載入中...</div>
+            </div>
+        </section>
+
+        <!-- 第三區塊：填充經文（預留） -->
+        <section id="section-future" class="scripture-section future-section">
+            <div class="section-header" data-section="future">
+                <div class="section-icon">📖</div>
+                <h2 class="section-title">填充經文</h2>
+                <span class="section-subtitle">未來將新增更多經文</span>
+                <span class="toggle-icon">▼</span>
+            </div>
+            <div id="content-future" class="section-content">
+                <div class="placeholder-content">
+                    <div class="placeholder-icon">🔮</div>
+                    <p class="placeholder-text">此區塊保留給未來新增的經文</p>
+                    <p class="placeholder-hint">敬請期待更多道教經典...</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- 頁尾 -->
+    <footer class="footer">
+        <p>道教經文集 © 2026</p>
+        <p class="source-info">
+            資料來源：
+            <a href="https://zh.wikisource.org/zh-hant/太上玄門正一日誦早課" target="_blank">維基文庫</a> ・
+            <a href="https://ctext.org/wiki.pl?if=gb&chapter=478670" target="_blank">中國哲學書電子化計劃</a>
+        </p>
+    </footer>
+
+    <!-- 返回頂部按鈕 -->
+    <button id="back-to-top" class="back-to-top" title="返回頂部">↑</button>
+
+    <script src="app.js"></script>
+</body>
+</html>

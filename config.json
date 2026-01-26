@@ -1,0 +1,36 @@
+{
+  "app": {
+    "name": "道教日課",
+    "version": "1.0.0",
+    "description": "道教日課誦經應用 - 日課、寶誥大全及各類經文"
+  },
+  "modules": {
+    "dailyCourses": {
+      "enabled": true,
+      "label": "📿 日課",
+      "description": "早課、晚課等日常誦經"
+    },
+    "baogao": {
+      "enabled": true,
+      "label": "📜 寶誥大全",
+      "description": "道教寶誥集合"
+    },
+    "scriptures": {
+      "enabled": false,
+      "label": "📖 經文庫",
+      "description": "道教經典文獻"
+    }
+  },
+  "display": {
+    "defaultFontSize": "medium",
+    "defaultTheme": "light",
+    "sidebarPosition": "left"
+  },
+  "features": {
+    "darkMode": true,
+    "fontSizeControl": true,
+    "searchFunction": false,
+    "bookmarks": false,
+    "printSupport": true
+  }
+}

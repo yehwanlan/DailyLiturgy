@@ -1,0 +1,733 @@
+{
+    "title": "寶誥大全",
+    "source": "中國哲學書電子化計劃",
+    "sourceUrl": "https://ctext.org/wiki.pl?if=gb&chapter=478670",
+    "totalEntries": 145,
+    "entries": [
+        {
+            "id": 1,
+            "title": "玉清寶誥",
+            "file": "001.json"
+        },
+        {
+            "id": 2,
+            "title": "上清寶誥",
+            "file": "002.json"
+        },
+        {
+            "id": 3,
+            "title": "太清寶誥",
+            "file": "003.json"
+        },
+        {
+            "id": 4,
+            "title": "彌羅寶誥",
+            "file": "004.json"
+        },
+        {
+            "id": 5,
+            "title": "天皇寶誥",
+            "file": "005.json"
+        },
+        {
+            "id": 6,
+            "title": "星主寶誥",
+            "file": "006.json"
+        },
+        {
+            "id": 7,
+            "title": "后土寶誥",
+            "file": "007.json"
+        },
+        {
+            "id": 8,
+            "title": "南極寶誥",
+            "file": "008.json"
+        },
+        {
+            "id": 9,
+            "title": "北五祖寶誥",
+            "file": "009.json"
+        },
+        {
+            "id": 10,
+            "title": "南五祖寶誥",
+            "file": "010.json"
+        },
+        {
+            "id": 11,
+            "title": "七真寶誥",
+            "file": "011.json"
+        },
+        {
+            "id": 12,
+            "title": "雷祖寶誥（普化寶誥）",
+            "file": "012.json"
+        },
+        {
+            "id": 13,
+            "title": "斗姥寶誥",
+            "file": "013.json"
+        },
+        {
+            "id": 14,
+            "title": "三官寶誥",
+            "file": "014.json"
+        },
+        {
+            "id": 15,
+            "title": "玄天寶誥",
+            "file": "015.json"
+        },
+        {
+            "id": 16,
+            "title": "祖天師寶誥",
+            "file": "016.json"
+        },
+        {
+            "id": 17,
+            "title": "呂祖寶誥",
+            "file": "017.json"
+        },
+        {
+            "id": 18,
+            "title": "薩祖寶誥",
+            "file": "018.json"
+        },
+        {
+            "id": 19,
+            "title": "王靈官寶誥",
+            "file": "019.json"
+        },
+        {
+            "id": 20,
+            "title": "太乙寶誥",
+            "file": "020.json"
+        },
+        {
+            "id": 21,
+            "title": "報恩寶誥",
+            "file": "021.json"
+        },
+        {
+            "id": 22,
+            "title": "三清總誥",
+            "file": "022.json"
+        },
+        {
+            "id": 23,
+            "title": "四御總誥",
+            "file": "023.json"
+        },
+        {
+            "id": 24,
+            "title": "九天玄女寶誥",
+            "file": "024.json"
+        },
+        {
+            "id": 25,
+            "title": "東王木公寶誥",
+            "file": "025.json"
+        },
+        {
+            "id": 26,
+            "title": "西王金母寶誥",
+            "file": "026.json"
+        },
+        {
+            "id": 27,
+            "title": "斗父寶誥",
+            "file": "027.json"
+        },
+        {
+            "id": 28,
+            "title": "紫府玄祖寶誥",
+            "file": "028.json"
+        },
+        {
+            "id": 29,
+            "title": "龍王寶誥",
+            "file": "029.json"
+        },
+        {
+            "id": 30,
+            "title": "虛空地母寶誥",
+            "file": "030.json"
+        },
+        {
+            "id": 31,
+            "title": "中元地官大帝寶誥",
+            "file": "031.json"
+        },
+        {
+            "id": 32,
+            "title": "下元水官大帝寶誥",
+            "file": "032.json"
+        },
+        {
+            "id": 33,
+            "title": "馬天君寶誥",
+            "file": "033.json"
+        },
+        {
+            "id": 34,
+            "title": "玄壇元帥寶誥",
+            "file": "034.json"
+        },
+        {
+            "id": 35,
+            "title": "溫天君寶誥",
+            "file": "035.json"
+        },
+        {
+            "id": 36,
+            "title": "關聖帝君寶誥",
+            "file": "036.json"
+        },
+        {
+            "id": 37,
+            "title": "周將軍寶誥",
+            "file": "037.json"
+        },
+        {
+            "id": 38,
+            "title": "中壇元帥寶誥",
+            "file": "038.json"
+        },
+        {
+            "id": 39,
+            "title": "岳元帥寶誥",
+            "file": "039.json"
+        },
+        {
+            "id": 40,
+            "title": "五斗星君寶誥",
+            "file": "040.json"
+        },
+        {
+            "id": 41,
+            "title": "南斗寶誥",
+            "file": "041.json"
+        },
+        {
+            "id": 42,
+            "title": "北斗寶誥",
+            "file": "042.json"
+        },
+        {
+            "id": 43,
+            "title": "貪狼星君寶誥",
+            "file": "043.json"
+        },
+        {
+            "id": 44,
+            "title": "巨門星君寶誥",
+            "file": "044.json"
+        },
+        {
+            "id": 45,
+            "title": "祿存星君寶誥",
+            "file": "045.json"
+        },
+        {
+            "id": 46,
+            "title": "文曲星君寶誥",
+            "file": "046.json"
+        },
+        {
+            "id": 47,
+            "title": "廉貞星君寶誥",
+            "file": "047.json"
+        },
+        {
+            "id": 48,
+            "title": "武曲星君寶誥",
+            "file": "048.json"
+        },
+        {
+            "id": 49,
+            "title": "破軍星君寶誥",
+            "file": "049.json"
+        },
+        {
+            "id": 50,
+            "title": "左輔星君寶誥",
+            "file": "050.json"
+        },
+        {
+            "id": 51,
+            "title": "右弼星君寶誥",
+            "file": "051.json"
+        },
+        {
+            "id": 52,
+            "title": "太陽星君寶誥",
+            "file": "052.json"
+        },
+        {
+            "id": 53,
+            "title": "太陰星君寶誥",
+            "file": "053.json"
+        },
+        {
+            "id": 54,
+            "title": "魁星寶誥",
+            "file": "054.json"
+        },
+        {
+            "id": 55,
+            "title": "當生本命星君寶誥",
+            "file": "055.json"
+        },
+        {
+            "id": 56,
+            "title": "雷公電母寶誥",
+            "file": "056.json"
+        },
+        {
+            "id": 57,
+            "title": "帝寶誥",
+            "file": "057.json"
+        },
+        {
+            "id": 58,
+            "title": "伏羲大帝寶誥",
+            "file": "058.json"
+        },
+        {
+            "id": 59,
+            "title": "神農寶誥",
+            "file": "059.json"
+        },
+        {
+            "id": 60,
+            "title": "三茅真君寶誥",
+            "file": "060.json"
+        },
+        {
+            "id": 61,
+            "title": "陶真君寶誥",
+            "file": "061.json"
+        },
+        {
+            "id": 62,
+            "title": "三豐祖師寶誥",
+            "file": "062.json"
+        },
+        {
+            "id": 63,
+            "title": "重陽祖師寶誥",
+            "file": "063.json"
+        },
+        {
+            "id": 64,
+            "title": "長春真人寶誥",
+            "file": "064.json"
+        },
+        {
+            "id": 65,
+            "title": "清淨元君寶誥",
+            "file": "065.json"
+        },
+        {
+            "id": 66,
+            "title": "總師寶誥",
+            "file": "066.json"
+        },
+        {
+            "id": 67,
+            "title": "至聖先師寶誥",
+            "file": "067.json"
+        },
+        {
+            "id": 68,
+            "title": "巧聖仙師寶誥",
+            "file": "068.json"
+        },
+        {
+            "id": 69,
+            "title": "藥王寶誥",
+            "file": "069.json"
+        },
+        {
+            "id": 70,
+            "title": "福德正神寶誥",
+            "file": "070.json"
+        },
+        {
+            "id": 71,
+            "title": "城隍寶誥",
+            "file": "071.json"
+        },
+        {
+            "id": 72,
+            "title": "月下老者寶誥",
+            "file": "072.json"
+        },
+        {
+            "id": 73,
+            "title": "門神寶誥",
+            "file": "073.json"
+        },
+        {
+            "id": 74,
+            "title": "灶君寶誥",
+            "file": "074.json"
+        },
+        {
+            "id": 75,
+            "title": "酆都大帝寶誥",
+            "file": "075.json"
+        },
+        {
+            "id": 76,
+            "title": "十殿冥王寶誥",
+            "file": "076.json"
+        },
+        {
+            "id": 77,
+            "title": "東華木公誥",
+            "file": "077.json"
+        },
+        {
+            "id": 78,
+            "title": "西池金母誥",
+            "file": "078.json"
+        },
+        {
+            "id": 79,
+            "title": "太陽帝君誥",
+            "file": "079.json"
+        },
+        {
+            "id": 80,
+            "title": "太陰皇君誥",
+            "file": "080.json"
+        },
+        {
+            "id": 81,
+            "title": "雷祖誥",
+            "file": "081.json"
+        },
+        {
+            "id": 82,
+            "title": "東極誥",
+            "file": "082.json"
+        },
+        {
+            "id": 83,
+            "title": "南極誥",
+            "file": "083.json"
+        },
+        {
+            "id": 84,
+            "title": "西極誥",
+            "file": "084.json"
+        },
+        {
+            "id": 85,
+            "title": "北極誥",
+            "file": "085.json"
+        },
+        {
+            "id": 86,
+            "title": "天官誥",
+            "file": "086.json"
+        },
+        {
+            "id": 87,
+            "title": "地官誥",
+            "file": "087.json"
+        },
+        {
+            "id": 88,
+            "title": "水官誥",
+            "file": "088.json"
+        },
+        {
+            "id": 89,
+            "title": "炎帝火官誥",
+            "file": "089.json"
+        },
+        {
+            "id": 90,
+            "title": "旻天醫王誥",
+            "file": "090.json"
+        },
+        {
+            "id": 91,
+            "title": "靈華至德誥",
+            "file": "091.json"
+        },
+        {
+            "id": 92,
+            "title": "東嶽大帝誥",
+            "file": "092.json"
+        },
+        {
+            "id": 93,
+            "title": "五岳總誥",
+            "file": "093.json"
+        },
+        {
+            "id": 94,
+            "title": "文昌帝君誥",
+            "file": "094.json"
+        },
+        {
+            "id": 95,
+            "title": "關聖帝君誥",
+            "file": "095.json"
+        },
+        {
+            "id": 96,
+            "title": "祖天師誥",
+            "file": "096.json"
+        },
+        {
+            "id": 97,
+            "title": "三茅真君誥",
+            "file": "097.json"
+        },
+        {
+            "id": 98,
+            "title": "葛仙翁誥",
+            "file": "098.json"
+        },
+        {
+            "id": 99,
+            "title": "許真君誥",
+            "file": "099.json"
+        },
+        {
+            "id": 100,
+            "title": "天樞上相誥",
+            "file": "100.json"
+        },
+        {
+            "id": 101,
+            "title": "薩真君誥",
+            "file": "101.json"
+        },
+        {
+            "id": 102,
+            "title": "大羅蘇祖誥",
+            "file": "102.json"
+        },
+        {
+            "id": 103,
+            "title": "陶真君誥",
+            "file": "103.json"
+        },
+        {
+            "id": 104,
+            "title": "虛靖天師誥",
+            "file": "104.json"
+        },
+        {
+            "id": 105,
+            "title": "西華帝君李祖誥",
+            "file": "105.json"
+        },
+        {
+            "id": 106,
+            "title": "玉華帝君張祖誥",
+            "file": "106.json"
+        },
+        {
+            "id": 107,
+            "title": "瑤華帝君韓祖誥",
+            "file": "107.json"
+        },
+        {
+            "id": 108,
+            "title": "妙法元君何祖誥",
+            "file": "108.json"
+        },
+        {
+            "id": 109,
+            "title": "光垣帝君藍祖誥",
+            "file": "109.json"
+        },
+        {
+            "id": 110,
+            "title": "黃華帝君曹祖誥",
+            "file": "110.json"
+        },
+        {
+            "id": 111,
+            "title": "東華帝君王老祖誥",
+            "file": "111.json"
+        },
+        {
+            "id": 112,
+            "title": "正陽帝君鐘離老祖誥",
+            "file": "112.json"
+        },
+        {
+            "id": 113,
+            "title": "孚佑上帝純陽呂祖誥",
+            "file": "113.json"
+        },
+        {
+            "id": 114,
+            "title": "海蟾帝君劉祖誥",
+            "file": "114.json"
+        },
+        {
+            "id": 115,
+            "title": "重陽帝君王祖誥",
+            "file": "115.json"
+        },
+        {
+            "id": 116,
+            "title": "紫陽真人張祖誥",
+            "file": "116.json"
+        },
+        {
+            "id": 117,
+            "title": "杏林真人石祖誥",
+            "file": "117.json"
+        },
+        {
+            "id": 118,
+            "title": "紫賢真人薜祖誥",
+            "file": "118.json"
+        },
+        {
+            "id": 119,
+            "title": "泥丸真人陳祖誥",
+            "file": "119.json"
+        },
+        {
+            "id": 120,
+            "title": "海瓊真人白祖誥",
+            "file": "120.json"
+        },
+        {
+            "id": 121,
+            "title": "和惠大帝邱祖誥",
+            "file": "121.json"
+        },
+        {
+            "id": 122,
+            "title": "長生真人劉祖誥",
+            "file": "122.json"
+        },
+        {
+            "id": 123,
+            "title": "長真真人譚祖誥",
+            "file": "123.json"
+        },
+        {
+            "id": 124,
+            "title": "丹陽真人馬祖誥",
+            "file": "124.json"
+        },
+        {
+            "id": 125,
+            "title": "太古真人郝祖誥",
+            "file": "125.json"
+        },
+        {
+            "id": 126,
+            "title": "玉陽真人王祖誥",
+            "file": "126.json"
+        },
+        {
+            "id": 127,
+            "title": "不二元君孫祖誥",
+            "file": "127.json"
+        },
+        {
+            "id": 128,
+            "title": "宏教真君柳祖誥",
+            "file": "128.json"
+        },
+        {
+            "id": 129,
+            "title": "宏濟真君程祖誥",
+            "file": "129.json"
+        },
+        {
+            "id": 130,
+            "title": "三元總誥",
+            "file": "130.json"
+        },
+        {
+            "id": 131,
+            "title": "南五祖總誥",
+            "file": "131.json"
+        },
+        {
+            "id": 132,
+            "title": "北五祖總誥",
+            "file": "132.json"
+        },
+        {
+            "id": 133,
+            "title": "七真總誥",
+            "file": "133.json"
+        },
+        {
+            "id": 134,
+            "title": "報恩寶誥",
+            "file": "134.json"
+        },
+        {
+            "id": 135,
+            "title": "王天君誥",
+            "file": "135.json"
+        },
+        {
+            "id": 136,
+            "title": "馬天君誥",
+            "file": "136.json"
+        },
+        {
+            "id": 137,
+            "title": "八仙寶誥（鐘離）",
+            "file": "137.json"
+        },
+        {
+            "id": 138,
+            "title": "八仙寶誥（呂洞賓）",
+            "file": "138.json"
+        },
+        {
+            "id": 139,
+            "title": "八仙寶誥（韓湘子）",
+            "file": "139.json"
+        },
+        {
+            "id": 140,
+            "title": "八仙寶誥（何仙姑）",
+            "file": "140.json"
+        },
+        {
+            "id": 141,
+            "title": "八仙寶誥（藍采和）",
+            "file": "141.json"
+        },
+        {
+            "id": 142,
+            "title": "八仙寶誥（曹國舅）",
+            "file": "142.json"
+        },
+        {
+            "id": 143,
+            "title": "紫微誥",
+            "file": "143.json"
+        },
+        {
+            "id": 144,
+            "title": "聖祖誥",
+            "file": "144.json"
+        },
+        {
+            "id": 145,
+            "title": "元後誥",
+            "file": "145.json"
+        }
+    ]
+}
